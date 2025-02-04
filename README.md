@@ -6,4 +6,7 @@ a job id is a server id!
 this project was inspired by Synapse X Stream Sniper!
 RIP Synapse X!
 
-This project is no where to being finished the Pre-Release only includes the GUI but soon the V1 will come with the full functional system!
+# ⚠️This project is no where to being finished the Pre-Release only includes the GUI but soon the V1 will come with the full functional system!⚠️
+
+If you wanna test the script go onto your executer and paste the script from this link to get the UI!
+https://github.com/AlfieZaDoge/Alfies-Stream-Sniper-/releases
